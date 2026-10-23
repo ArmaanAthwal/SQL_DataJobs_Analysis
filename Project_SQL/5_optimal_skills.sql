@@ -22,7 +22,8 @@ where
     and salary_year_avg is not null
 
 group by 
-    skills_dim.skill_id
+    skills_dim.skill_id,
+    skills_dim.skills
 
 having 
     count(skills_job_dim.job_id) > 15

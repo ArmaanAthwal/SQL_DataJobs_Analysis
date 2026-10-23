@@ -22,7 +22,6 @@ from
 
 where
     job_title_short in ('Data Analyst', 'Business Analyst')
-    and job_location = 'Anywhere'
     and salary_year_avg is not null
 
 order by
