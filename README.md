@@ -101,6 +101,7 @@ Breakdown:
 - **Tableau** follows closely, appearing in 6 job postings.
 - **Python** appears in 3 postings, while **Looker** appears in 2. Other skills, including **Excel, VBA, Go,** and **C**, appear less frequently.
 
+![Skills for Top Paying Jobs](https://github.com/ArmaanAthwal/SQL_DataJobs_Analysis/blob/d6ba4c51ceff160b57dc10797a5788d29f48b0ba/Assets/skills%20for%20top%20paying%20jobs.png)
 ### 3. In-Demand Skills
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
 ```sql
@@ -129,6 +130,7 @@ Breakdown:
 - **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 - **Programming** and **Visualization Tools** like **Python, Tableau,** and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
+![Top Demanded Skills](https://github.com/ArmaanAthwal/SQL_DataJobs_Analysis/blob/d6ba4c51ceff160b57dc10797a5788d29f48b0ba/Assets/top%20demanded%20skills.png)
 ### 4. Skills Based on Salary
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
 ```sql
@@ -160,6 +162,7 @@ Breakdown:
 - **Infrastructure, Databases & Specialized Tools**: **Terraform** ($142,910), **DynamoDB** ($140,741), **Elasticsearch** ($131,792), and **Couchbase** ($127,572) show that infrastructure and database expertise also feature among the higher-paying skills.
 - These are average salaries associated with each skill in the dataset; the data alone does not establish that possessing a particular skill causes higher pay.
 
+![Top Paying Skills](https://github.com/ArmaanAthwal/SQL_DataJobs_Analysis/blob/d6ba4c51ceff160b57dc10797a5788d29f48b0ba/Assets/top%20paying%20skills.png)
 ### 5. Most Optimal Skills to Learn
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and have high salaries, offering a strategic focus for skill development.
 ```sql
@@ -200,7 +203,8 @@ Breakdown:
 - **Office and Productivity Tools**: Excel (11,390 postings, $89,608), PowerPoint ($89,813), Word ($81,961) and Outlook ($79,854) are widely requested but carry the lowest average salaries. They appear to be expected baseline skills rather than differentiators.
 - **Enterprise and Workflow Tools**: SAP ($96,584), Flow ($97,743) and Jira ($108,960) have moderate demand. Jira stands out with a relatively high salary for its demand level of 775 postings.
 - Note on the data: SAS appears twice (skill IDs 8 and 194)
-  
+
+  ![Optimal Skills](https://github.com/ArmaanAthwal/SQL_DataJobs_Analysis/blob/d6ba4c51ceff160b57dc10797a5788d29f48b0ba/Assets/optimal%20skills.png)
 # Conclusion
 From the analysis, several general insights emerged:
 
