@@ -7,7 +7,7 @@ Check out the queries: [Project_SQL folder](/Project_SQL/)
 # Background
 As someone interested in pursuing a career in data analytics or business analytics, I wanted to take a closer look at the job market and better understand 
 what employers are actually looking for. This project gave me the opportunity to build my SQL skills while exploring salaries, job opportunities, and the 
-technical skills that are most valuable in the industry. The dataset was provided by Luke Barousse's SQL and includes information on job postings, salaries, 
+technical skills that are most valuable in the industry. The dataset was provided by datanerd.tech and includes information on job postings, salaries, 
 locations, and required skills.
 
 Questions I Wanted to Answer:
